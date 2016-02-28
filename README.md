@@ -1,2 +1,2 @@
 # hello-world
-a simple hello world program.
+this is a simple c++ hello world program.
